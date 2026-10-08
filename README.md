@@ -237,4 +237,4 @@ This repository serves as the official landing page for Minicraft. The software 
 **Get the most recent version of Minicraft today!**
 
 ---
-**Last updated:** 2026-10-07 21:10:07 UTC
+**Last updated:** 2026-10-08 01:29:30 UTC
